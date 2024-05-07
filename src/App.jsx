@@ -7,6 +7,7 @@ import NavTabs from "./components/NavTabs";
 import Home from './pages/Home';
 import About from './pages/About';
 import ContactMe from './pages/ContactMe';
+import NotFound from './pages/NotFound';
 
 const App = () => <>
     <Router>
