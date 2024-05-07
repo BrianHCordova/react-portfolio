@@ -4,6 +4,7 @@ import {
   Route
 } from "react-router-dom"
 import NavTabs from "./components/NavTabs";
+import Portfolio from './pages/Portfolio';
 import Home from './pages/Home';
 import About from './pages/About';
 import ContactMe from './pages/ContactMe';
