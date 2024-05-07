@@ -16,25 +16,25 @@ export default function Example() {
                 <div className="hidden sm:ml-6 sm:block">
                   <div className="flex space-x-56">
                     <a
-                      href="#"
+                      href="/"
                       className="rounded-md bg-gray-900 hover:bg-gray-700 px-3 py-2 text-xl font-medium text-white"
                     >
                       Home
                     </a>
                     <a
-                      href="#"
+                      href="/portfolio"
                       className="rounded-md px-3 py-2 text-xl font-medium text-gray-300 hover:bg-gray-700 hover:text-white"
                     >
                       Portfolio
                     </a>
                     <a
-                      href="#"
+                      href="/about"
                       className="rounded-md px-3 py-2 text-xl font-medium text-gray-300 hover:bg-gray-700 hover:text-white"
                     >
                       About Me
                     </a>
                     <a
-                      href="#"
+                      href="/contact"
                       className="rounded-md px-3 py-2 text-xl font-medium text-gray-300 hover:bg-gray-700 hover:text-white"
                     >
                       Contact Me
